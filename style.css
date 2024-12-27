@@ -13,12 +13,19 @@ header{
     align-items: center;
     padding-bottom: 17px;
     padding-top: 17px;
+    letter-spacing: -1px;
 }
-header h1{
-    color: #191919;
+header h1 li{
     padding-left: 4rem;
+    list-style: none;
+    
    
 }
+header h1 li a{
+    text-decoration: none;
+    color: #191919;
+}
+
 nav ul{
     font-size: 16px;
     display: flex;
