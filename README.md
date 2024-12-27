@@ -1,2 +1,2 @@
 # medium
-medium landing project with css and html
+ I have created medium landing project with the help css and html
